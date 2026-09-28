@@ -1,0 +1,10 @@
+# Normalize text files to LF in the repo so line endings do not churn.
+* text=auto eol=lf
+
+# Images are binary - never attempt line-ending conversion.
+*.jpg binary
+*.jpeg binary
+*.png binary
+*.webp binary
+*.gif binary
+*.ico binary

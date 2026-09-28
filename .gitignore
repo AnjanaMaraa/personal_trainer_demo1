@@ -1,0 +1,16 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Editor / IDE settings
+.vscode/
+.idea/
+
+# Local environment and secrets
+.env
+.env.local
+*.pem

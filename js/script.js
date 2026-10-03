@@ -30,13 +30,13 @@
      ======================================================================== */
   const CONFIG = {
     /** WhatsApp number in international format, digits only, no "+". */
-    whatsappNumber: '918870139023',
+    whatsappNumber: '917200251560',
 
     /** Primary phone number in international format for tel: links. */
-    phoneNumber: '+918870139023',
+    phoneNumber: '+917200251560',
 
     /** Brand name used when composing WhatsApp messages. */
-    brand: 'Bright Fitness Studio',
+    brand: 'DigiMaraa Fitness Studio',
 
     /**
      * Message templates.
